@@ -6,6 +6,7 @@ This repository contains snippets of code I reuse from time to time.
 
 |Notebook|
 |------|
+|[matplotlib-from-datafile]((https://github.com/whoek/snippits/blob/master/ipynb/matplotlib-from-datafile.ipynb)<br>*Create x-y plot from a datafile*|
 |[database_sample](https://github.com/whoek/snippits/blob/master/ipynb/database_sample.ipynb)<br>*Create sqlite3 file and simple 'select' statement*|
 |[figures-matplotlib.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/figures-matplotlib.ipynb)<br>Create x-y graph with matplotlib|
 |[sap123-migrate.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/sap123-migrate.ipynb)<br>Script to mirate files frm sap123.com to willemhoek.com|
