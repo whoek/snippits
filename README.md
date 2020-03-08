@@ -16,13 +16,10 @@ This repository contains list snippets of code I reuase form time to time.
 
 | **File** | **Description** | **Documentation**|
 |:--------|:-------------------|----|
-|[loop.py](https://github.com/norvig/pytudes/blob/master/py/SET.py)|Solvig Puzzle  |[html](http://norvig.com/SET.html)|
-|[loop.py](https://github.com/norvig/pytudes/blob/master/py/SET.py)|Solvig Puzzle  |[html](http://norvig.com/SET.html)|
+|[janestreet_dec2018.py]((https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py))|Solving Jane street puzzle of Dec 2018Puzzle  |[Jane Street](https://www.janestreet.com/puzzles/block-party-2/)|
 
 # List of OCaml files
 
 | **File** | **Description** | **Documentation**|
 |:--------|:-------------------|----|
-|[loop.ml](https://github.com/norvig/pytudes/blob/master/py/SET.py)|Solvig Puzzle  |[html](http://norvig.com/SET.html)|
-|[loop.ml](https://github.com/norvig/pytudes/blob/master/py/SET.py)|Solvig Puzzle  |[html](http://norvig.com/SET.html)|
-
+|[hello.ml](https://github.com/whoek/snippits/blob/master/ml/hello.ml) | 1 line Hello World |  |
