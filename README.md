@@ -4,9 +4,9 @@ This repository contains list snippets of code I reuase form time to time.
 
 # List of Jupyter Notebooks
 
-|---|
-| [link](link) <More info about it  |
-| [link](link) <br>   More info about it  |
+|:---------|
+|[link](link) <More info about it  |
+|[link](link) <br>   More info about it  |
 
 
 # List of Python files
