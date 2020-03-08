@@ -16,7 +16,7 @@ This repository contains list snippets of code I reuase form time to time.
 
 | **File** | **Description** | **Documentation**|
 |:--------|:-------------------|----|
-|[janestreet_dec2018.py]((https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py))|Solving Jane street puzzle of Dec 2018Puzzle  |[Jane Street](https://www.janestreet.com/puzzles/block-party-2/)|
+|[janestreet_dec2018.py](https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py)|Solving Jane street puzzle of Dec 2018Puzzle  |[Jane Street](https://www.janestreet.com/puzzles/block-party-2/)|
 
 # List of OCaml files
 
