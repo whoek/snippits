@@ -17,7 +17,8 @@ Script to mirate files frm sap123.com to willemhoek.com|
 Create xls file|
 |[xls_pivot-Copy1.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot-Copy1.ipynb)<br>
 Create xls file 2|
-|[The Puzzle of the Misanthropic Neighbors](ipynb/Mean%20Misanthrope%20Density.ipynb)<br>*How crowded will this neighborhood be, if nobody wants to live next door to anyone else?*|
+|[The Puzzle of the Misanthropic Neighbors](ipynb/Mean%20Misanthrope%20Density.ipynb)<br>
+*How crowded will this neighborhood be, if nobody wants to live next door to anyone else?*|
 
 # List of Python files
 
