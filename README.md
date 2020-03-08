@@ -9,6 +9,16 @@ This repository contains list snippets of code I reuase form time to time.
 |[link](link) <br> More info about it  |
 |[link](link) <br>   More info about it  |
 
+|[](https://github.com/whoek/snippits/blob/master/ipynb/database_sample.ipynb)<br>
+Create sqlite3 file and simple 'select' statement|
+|[](https://github.com/whoek/snippits/blob/master/ipynb/figures-matplotlib.ipynb)<br>
+Create x-y graph with matplotlib|
+|[](https://github.com/whoek/snippits/blob/master/ipynb/sap123-migrate.ipynb)<br>
+Script to mirate files frm sap123.com to willemhoek.com|
+|[](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot.ipynb)<br>
+Create xls file|
+|[](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot-Copy1.ipynb)<br>
+Create xls file 2|
 
 # List of Python files
 
