@@ -1,7 +1,5 @@
----
-title: snippits
----
 
+# Snippits
 
 This repository contains snippets of code I reuse from time to time.
 
