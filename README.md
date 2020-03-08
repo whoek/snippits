@@ -7,7 +7,7 @@ This repository contains list snippets of code I reuase form time to time.
 |Notebook|
 |------|
 |[Advent of Code 2018](ipynb/Advent-2018.ipynb)&nbsp; &nbsp; **[NB](http:/nbviewer.jupyter.org/github/norvig/pytudes/blob/master/ipynb/Advent-2018.ipynb)**, **[DN](https://beta.deepnote.org/launch?template=python_3.6&url=https%3A%2F%2Fgithub.com%2Fnorvig%2Fpytudes%2Fblob%2Fmaster%2Fipynb%2FAdvent-2018.ipynb)**<br>*Puzzle site with a coding puzzle each day for Advent 2018 .*|
-|[database_sample.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/database_sample.ipynb)<br>
+|[database_sample](https://github.com/whoek/snippits/blob/master/ipynb/database_sample.ipynb)<br>
 *Create sqlite3 file and simple 'select' statement*|
 |[figures-matplotlib.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/figures-matplotlib.ipynb)<br>
 Create x-y graph with matplotlib|
@@ -17,6 +17,7 @@ Script to mirate files frm sap123.com to willemhoek.com|
 Create xls file|
 |[xls_pivot-Copy1.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot-Copy1.ipynb)<br>
 Create xls file 2|
+|[The Puzzle of the Misanthropic Neighbors](ipynb/Mean%20Misanthrope%20Density.ipynb)&nbsp; &nbsp; **[NB](http:/nbviewer.jupyter.org/github/norvig/pytudes/blob/master/ipynb/Mean%20Misanthrope%20Density.ipynb)**, **[DN](https://beta.deepnote.org/launch?template=python_3.6&url=https%3A%2F%2Fgithub.com%2Fnorvig%2Fpytudes%2Fblob%2Fmaster%2Fipynb%2FMean%2520Misanthrope%2520Density.ipynb)**<br>*How crowded will this neighborhood be, if nobody wants to live next door to anyone else?*|
 
 # List of Python files
 
