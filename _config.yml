@@ -1,0 +1,22 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+
+# after | in tab
+title: "Willem Hoek"
+name: "Willem Hoek"  # used as header text on HOME
+author: Willem Hoek
+author_website: "https://www.linkedin.com/in/whoek/"
+name: Willem Hoek
+description:   # show up on main page TAB 
+tagline: tagline
+
+# based on:  https://github.com/pages-themes/primer/blob/master/_config.yml
+
+# https://primer.style/css/
