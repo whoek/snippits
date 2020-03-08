@@ -1,6 +1,6 @@
-# Code snippits
+# Snippits
 
-This repository contains list snippets of code I reuase form time to time.
+This repository contains snippets of code I reuse from time to time.
 
 # List of Jupyter Notebooks
 

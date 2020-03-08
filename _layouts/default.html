@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if page.homepage %}
+      <h3><a href="{{ "/" | absolute_url }}">{{ site.name }}</a></h3>
+      {% elsif page.title %}
+      <h3><a href="{{ "/" | absolute_url }}">{{ site.name }}</a>&nbsp; &#187; &nbsp;{{ page.title }}</h3>
+      {% elsif site.name %}
+      <h3><a href="{{ "/" | absolute_url }}">{{ site.name }}</a></h3>
+      {% endif %}
+      {{ content }}
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray"></div>
+      <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+    
+<!-- Default Statcounter code for willemhoek.com
+http://www.willemhoek.com -->
+<script type="text/javascript">
+var sc_project=500875; 
+var sc_invisible=1; 
+var sc_security=""; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/500875/0//1/" alt="Web
+Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+    
+  </body>
+</html>
