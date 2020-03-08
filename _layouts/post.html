@@ -1,0 +1,7 @@
+---
+layout: default
+---
+{% if page.created %}
+<p class="text-small"> Posted on {{ page.created | date: "%B %Y" }}</p>
+{% endif  %}
+{{ content }}
