@@ -2,7 +2,7 @@
 
 This repository contains snippets of code I reuse from time to time.
 
-## List of Jupyter Notebooks
+## Jupyter Notebooks
 
 |Notebook|
 |------|
@@ -12,13 +12,13 @@ This repository contains snippets of code I reuse from time to time.
 |[xls_pivot.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot.ipynb)<br>Create xls file|
 |[xls_pivot-Copy1.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot-Copy1.ipynb)<br>Create xls file 2|
 
-## List of Python files
+## Python files
 
 | **File** | **Description** | **Documentation**|
 |:--------|:-------------------|----|
 |[janestreet_dec2018.py](https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py)|Solving Jane street puzzle of Dec 2018Puzzle  |[Jane Street](https://www.janestreet.com/puzzles/block-party-2/)|
 
-## List of OCaml files
+## OCaml files
 
 | **File** | **Description** | **Documentation**|
 |:--------|:-------------------|----|
