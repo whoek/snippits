@@ -1,10 +1,5 @@
----
-layout: post
-title: "Code snippits"
-description: "Code snippits"
----
+## code snippits
 
-This repository contains snippets of code I reuse from time to time.
 
 ## Jupyter Notebooks
 
