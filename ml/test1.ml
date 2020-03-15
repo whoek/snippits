@@ -17,6 +17,9 @@ or use following dune file
  (libraries unix))
 ```
 
+dune build
+dune exec ./test1
+
 *)
 
 
