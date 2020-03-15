@@ -22,5 +22,5 @@
 
 | **File** | **Description** | **Documentation**|
 |:--------|:-------------------|----|
-|[hello.ml](https://github.com/whoek/snippits/blob/master/ml/hello.ml) | 1 line Hello World |  |
+|[hello.ml](https://github.com/whoek/snippits/blob/master/ml/hello.ml) | Simple Ocaml |  |
 
