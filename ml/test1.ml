@@ -23,7 +23,7 @@ or use following dune file
 let () =
   let d = Unix.gettimeofday() in
   let b = Array.make 10_000_000 1.0 in
-       let lx = [1;2;3;4] in
+  let lx = [1;2;3;4] in
   let ly = List.map (fun x -> x * x) lx in
   Printf.printf  "\nb.(100) = %f\n%!"  b.(100);
   List.iter  (Printf.printf "%d ") lx;
