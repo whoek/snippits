@@ -19,3 +19,4 @@ let () =
   let b = Array.make 10_000_000 1.0 in
   print_float (Unix.gettimeofday() -. d);
   print_float b.(100)
+  
