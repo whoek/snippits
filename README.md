@@ -15,13 +15,14 @@
 
 ## Python files
 
-| **File** | **Description** | **Documentation**|
-|:--------|:-------------------|----|
-|[janestreet_dec2018.py](https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py)|Solving Jane street puzzle of Dec 2018Puzzle  |[Jane Street](https://www.janestreet.com/puzzles/block-party-2/)|
+| **File** | **Description** | 
+|:--------|:-------------------|
+|[janestreet_dec2018.py](https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py)|Solving Jane street puzzle of Dec 2018 <https://www.janestreet.com/puzzles/block-party-2/> |
 
 ## OCaml files
 
-| **File** | **Description** | **Documentation**|
-|:--------|:-------------------|----|
-|[test1.ml](https://github.com/whoek/snippits/blob/master/ml/) | Basic Ocaml program|  |
+| **File** | **Description** | 
+|:--------|:-------------------|
+|[test1.ml](https://github.com/whoek/snippits/blob/master/ml/) | Basic Ocaml program & dune | 
+
 
