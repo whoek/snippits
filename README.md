@@ -5,6 +5,8 @@
 
 |Notebook|
 |------|
+|[call_ocaml.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/call_ocaml.ipynb)<br>
+*running external program from python* |
 |[matplotlib-from-datafile](https://github.com/whoek/snippits/blob/master/ipynb/matplotlib-from-datafile.ipynb)<br>*Create x-y plot from a datafile*|
 |[database_sample](https://github.com/whoek/snippits/blob/master/ipynb/database_sample.ipynb)<br>*Create sqlite3 file and simple 'select' statement*|
 |[figures-matplotlib.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/figures-matplotlib.ipynb)<br>*Create x-y graph with matplotlib*|
