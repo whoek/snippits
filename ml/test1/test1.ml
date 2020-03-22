@@ -9,12 +9,12 @@ or use following dune file
  (name test1)
  (libraries unix))
 ```
-Then:
-dune build
-dune exec ./test1
-
+Then:          
+    dune build
+    dune exec ./test1      
+or
+    _build\default\test1.exe
 *)
-
 
 let () =
   let d = Unix.gettimeofday() in
