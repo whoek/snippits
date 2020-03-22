@@ -11,11 +11,11 @@
     
     <div class="container-lg px-3 my-5 markdown-body">
       {% if page.homepage %}
-      <h3><a href="https://willemhoek.com">{{ site.name }}</a></h3>
+      <h2><a href="https://willemhoek.com">{{ site.name }}</a></h2>
       {% elsif page.title %}
-      <h3><a href="https://willemhoek.com">{{ site.name }}</a>&nbsp; &#187; &nbsp;{{ page.title }}</h3>
+      <h2><a href="https://willemhoek.com">{{ site.name }}</a>&nbsp; &#187; &nbsp;{{ page.title }}</h2>
       {% elsif site.name %}
-      <h3><a href="https://willemhoek.com">{{ site.name }}</a></h3>
+      <h2><a href="https://willemhoek.com">{{ site.name }}</a></h2>
       {% endif %}
       {{ content }}
 <a  class="text-small" href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">Edit</a>
