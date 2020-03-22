@@ -5,7 +5,7 @@
 
 |**Notebook**|**Description** |
 |------|-----|
-|[call_ocaml.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/call_ocaml.ipynb)< | Running external program from python |
+|[call_ocaml.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/call_ocaml.ipynb) | Running external program from python |
 |[matplotlib-from-datafile](https://github.com/whoek/snippits/blob/master/ipynb/matplotlib-from-datafile.ipynb) | Create x-y plot from a datafile |
 |[database_sample](https://github.com/whoek/snippits/blob/master/ipynb/database_sample.ipynb) | Create sqlite3 file and simple 'select' statement |
 |[figures-matplotlib.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/figures-matplotlib.ipynb) | Create x-y graph with matplotlib |
@@ -17,7 +17,8 @@
 
 | **File** | **Description** | 
 |:--------|:-------------------|
-|[janestreet_dec2018.py](https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py)|Solving Jane street puzzle of Dec 2018 <https://www.janestreet.com/puzzles/block-party-2/> |
+|[janestreet_dec2018.py](https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py)|Solving Jane street puzzle of Dec 2018
+<br><https://www.janestreet.com/puzzles/block-party-2/> |
 
 ## OCaml files
 
