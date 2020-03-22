@@ -23,6 +23,6 @@
 
 | **File** | **Description** | 
 |:--------|:-------------------|
-|[test1.ml](https://github.com/whoek/snippits/blob/master/ml/) | Basic Ocaml program & dune | 
+|[test1.ml](https://github.com/whoek/snippits/blob/master/ml/test1/) | Basic Ocaml test program & dune | 
 
 
