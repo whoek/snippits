@@ -1,5 +1,6 @@
-## code snippits
-
+---
+title: Code Snippits
+---
 
 ## Jupyter Notebooks
 
@@ -13,13 +14,13 @@
 |[xls_pivot.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot.ipynb) | Create xls file  |
 |[xls_pivot-Copy1.ipynb](https://github.com/whoek/snippits/blob/master/ipynb/xls_pivot-Copy1.ipynb) | Create xls file 2  |
 
-## Python files
+## Python
 
 | **File** | **Description** | 
 |:--------|:-------------------|
 |[janestreet_dec2018.py](https://github.com/whoek/snippits/blob/master/py/janestreet_dec2018.py)|Solving Jane street puzzle of Dec 2018<br><https://www.janestreet.com/puzzles/block-party-2/> |
 
-## OCaml files
+## OCaml
 
 | **File** | **Description** | 
 |:--------|:-------------------|
