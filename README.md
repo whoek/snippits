@@ -1,7 +1,3 @@
----
-title: Code Snippits
----
-
 ## Jupyter Notebooks
 
 |**Notebook**|**Description** |
